@@ -23,7 +23,10 @@ I’m an aspiring AIML engineer currently exploring AI & ML through real-world p
 ---
 
 ## 🔗 **Connect with Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/charu-priya-805a3536b)  
+[![LinkedIn]
+
+(https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]   (https://www.linkedin.com/in/charu-priya-805a3536b)  
+
 📧 [priyacharu444@gmail.com](mailto:priyacharu444@gmail.com)
 
 ---
